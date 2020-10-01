@@ -1,11 +1,3 @@
-class Dzikir {
-  String judul;
-  String arab;
-  String arti;
- 
-  Dzikir(this.judul, this.arab, this.arti);
-}
- 
 List<Dzikir> dzikirPagi = [
   Dzikir(
     "Ta\'awudz",
