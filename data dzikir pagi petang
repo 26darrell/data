@@ -1,4 +1,4 @@
-class Dzikir {
+Class Dzikir {
   String judul;
   String arab;
   String arti;
